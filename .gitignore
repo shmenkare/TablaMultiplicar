@@ -1,0 +1,9 @@
+TablaMultiplicar.csproj
+TablaMultiplicar.sln
+TablaMultiplicar.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
