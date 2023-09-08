@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
+
+
 namespace TablaMultiplicar
 {
     class Program
@@ -16,7 +18,7 @@ namespace TablaMultiplicar
 
             for (n = 1; n <= 10;n++)
             {
-                Thread.Sleep(200);
+                Thread.Sleep(350);
 
                 resul = num* n;
 
